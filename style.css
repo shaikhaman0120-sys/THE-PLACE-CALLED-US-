@@ -790,3 +790,6 @@ grid-template-columns:repeat(2,1fr);
     line-height: 1.9;
     color: #666;
 }
+.floating-nav{
+    display:none !important;
+}
