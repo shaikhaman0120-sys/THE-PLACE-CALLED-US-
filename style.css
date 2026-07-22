@@ -1042,3 +1042,21 @@ transform:translateY(0);
     font-size:24px;
     margin:0;
 }
+.magazine{
+    display:block !important;
+    visibility:visible !important;
+}
+
+.magazine-grid{
+    display:grid !important;
+    grid-template-columns:1fr !important;
+    gap:20px !important;
+}
+
+.magazine-grid img{
+    display:block !important;
+    width:100% !important;
+    height:auto !important;
+    opacity:1 !important;
+    visibility:visible !important;
+}
